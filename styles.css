@@ -1,0 +1,28 @@
+img {
+    width: 300px;
+}
+
+.buttone {
+    font-size: 20px;
+}
+
+.button2 {
+    font-size: 20px;
+}
+
+.button3 {
+    font-size: 20px;
+}
+
+body {
+    text-align: center;
+    background-color: brown;
+}
+
+.free {
+    display: none;
+}
+
+.water {
+    display: none;
+}
